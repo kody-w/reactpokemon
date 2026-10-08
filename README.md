@@ -1,3 +1,7 @@
+<!-- retired-notice:start -->
+> **Archived.** No longer maintained; kept public for reference.
+<!-- retired-notice:end -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
